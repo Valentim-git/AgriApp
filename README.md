@@ -2,6 +2,9 @@
 
 Aplicação para apoio agricultura
 
+Projeto a ser realizado no ambito da disciplina de LPI na UFP com orientador Ivo Pereira.
+Desenvolvedores Bruno Magalhães e João Valentim
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
